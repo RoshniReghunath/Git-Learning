@@ -1,7 +1,7 @@
 class hello {
 public static void main(String a[]){
 
-    System.out.println("Git testing");
+    //System.out.println("Git testing");
 int i=0;
     while(i<=5){
 
